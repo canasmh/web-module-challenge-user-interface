@@ -38,6 +38,10 @@ p {
 
 */
 
+img {
+  border-radius: 10px;
+}
+
 .content-row {
   display: flex;
 }
